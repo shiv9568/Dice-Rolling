@@ -1,3 +1,4 @@
+import React from "react";
 function Rules() {
         return (
             <div className=" mt-3 py-11">

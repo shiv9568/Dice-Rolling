@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import Game from "./Components/Game/Game"
-import Gameplay from "./Components/Gameplay.jsx/Gameplay";
+import Gameplay from "./Components/Gameplay/Gameplay";
 function App()
 {
   {
