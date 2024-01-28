@@ -2,7 +2,7 @@ import React, { useState } from "react";
 
 import Content from "./Content";
 import RollDice from "./RollDice";
-import RulesComponent from "./rules"; 
+import RulesComponent from "./Rules"; 
 
 function Gameplay() {
   const [showRules, setShowRules] = useState(false); 
